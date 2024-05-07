@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3fbeca3c-0e81-4a41-956e-6db641526d43" name="Changes" comment="last commit with notifications">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;danyaljr11&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="c15fe6bb-8a88-4910-8dd8-c2fec3b88d6a" />
+        <option name="url" value="https://github.com/danyaljr11/spark_back.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2eR0trmzjQh7ea5kncLdX0kWsN5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/danya/Desktop/projects/CinemaTicketsReservation_API-main",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\danya\PycharmProjects\spark" />
+      <recent name="C:\Users\danya\PycharmProjects\spark\project" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-09665e90c3a7-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15026.15" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3fbeca3c-0e81-4a41-956e-6db641526d43" name="Changes" comment="" />
+      <created>1711852300656</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711852300656</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first">
+      <option name="closed" value="true" />
+      <created>1711852940875</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711852940875</updated>
+    </task>
+    <task id="LOCAL-00002" summary="second">
+      <option name="closed" value="true" />
+      <created>1711853949092</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711853949092</updated>
+    </task>
+    <task id="LOCAL-00003" summary="third">
+      <option name="closed" value="true" />
+      <created>1711855543233</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711855543233</updated>
+    </task>
+    <task id="LOCAL-00004" summary="third">
+      <option name="closed" value="true" />
+      <created>1711855550454</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1711855550454</updated>
+    </task>
+    <task id="LOCAL-00005" summary="after adding section and new views">
+      <option name="closed" value="true" />
+      <created>1713452276666</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713452276666</updated>
+    </task>
+    <task id="LOCAL-00006" summary="after adding section and new views&#10;after editing section and new views">
+      <option name="closed" value="true" />
+      <created>1713455281531</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1713455281531</updated>
+    </task>
+    <task id="LOCAL-00007" summary="after validating">
+      <option name="closed" value="true" />
+      <created>1713465785111</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1713465785111</updated>
+    </task>
+    <task id="LOCAL-00008" summary="new requests">
+      <option name="closed" value="true" />
+      <created>1713565509179</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1713565509179</updated>
+    </task>
+    <task id="LOCAL-00009" summary="after adding corsheader&#10;after adding validation jsons">
+      <option name="closed" value="true" />
+      <created>1713655066164</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1713655066164</updated>
+    </task>
+    <task id="LOCAL-00010" summary="after adding two types of pictures">
+      <option name="closed" value="true" />
+      <created>1714491198998</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1714491198998</updated>
+    </task>
+    <task id="LOCAL-00011" summary="last commit with notifications">
+      <option name="closed" value="true" />
+      <created>1715049930484</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1715049930484</updated>
+    </task>
+    <task id="LOCAL-00012" summary="last commit with notifications">
+      <option name="closed" value="true" />
+      <created>1715050956214</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1715050956214</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <MESSAGE value="second" />
+    <MESSAGE value="third" />
+    <MESSAGE value="after adding section and new views" />
+    <MESSAGE value="after adding section and new views&#10;after editing section and new views" />
+    <MESSAGE value="after validating" />
+    <MESSAGE value="new requests" />
+    <MESSAGE value="after adding corsheader&#10;after adding validation jsons" />
+    <MESSAGE value="after adding two types of pictures" />
+    <MESSAGE value="last commit with notifications" />
+    <option name="LAST_COMMIT_MESSAGE" value="last commit with notifications" />
+  </component>
+</project>
